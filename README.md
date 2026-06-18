@@ -13,9 +13,7 @@
   <a href="mailto:wadgaonkarrutuja43@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://mastodon.social/@Rutuja Wadgaonkar" target="_blank">
-    <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
-  </a>
+ 
 </p>
 
 <p align="center">
