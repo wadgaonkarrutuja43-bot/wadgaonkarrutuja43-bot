@@ -1,21 +1,18 @@
-# 💻 Full-Stack & Systems Engineer
+# 💫 About Me:
+## 🚀 About Me<br><br>A structured developer focused on building high-performance full-stack web applications, optimizing database layers, and engineering clean user experiences. Backed by a strong technical foundation in software engineering and hands-on experience delivering production-ready web solutions.<br><br>---<br><br>### 🛠️ Technical Focus & Status<br><br>* **🔭 I’m currently working on** | Building scalable full-stack web systems, refining custom CRM applications, and optimizing relational database schemas.<br>* **👯 I’m looking to collaborate on** | Open-source full-stack web applications, performance-driven React components, or modern architecture designs.<br>* **🤝 I’m looking for help with** | Advanced backend system design patterns and cloud deployment workflows.<br>* **🌱 I’m currently learning** | Next.js, advanced state management architectures, and modern UI/UX design frameworks.<br>* **💬 Ask me about** | JavaScript, React.js, Node.js, native Android application development (Java), or database management using SQL and PHP.<br>* **⚡ Fun fact** | When I'm offline, I build audio mixes using precise BPM and EQ adjustments, and compete in inter-collegiate formal dance formats.<br><br>---<br><br>### 🧰 Tech Stack & Tools<br><br>| Category | Technologies |<br>| :--- | :--- |<br>| **Frontend** | React.js, JavaScript, HTML5, CSS3, Bootstrap |<br>| **Backend & DB** | Node.js, Express, PHP, SQL, Relational Databases |<br>| **Languages & Mobile**| Java (Native Android Dev), Python |<br>| **Tools & Version Control** | Git, GitHub, Audacity |<br><br>---<br><br>### 📈 Metrics & Activity<br><br><p align="left"><br>  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" /><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" /><br></p>
 
-A performance-driven developer specializing in building scalable web architectures, optimizing data persistence layers, and engineering fluid user interfaces. Focused on writing deterministic, highly maintainable code and eliminating architectural bottlenecks.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rutuja-wadgaonkar-718448322) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rutuja Wadgaonkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wadgaonkarrutuja43@gmail.com) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=wadgaonkarrutuja43-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=wadgaonkarrutuja43-bot&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=wadgaonkarrutuja43-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=wadgaonkarrutuja43-bot&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🏛️ Core Engineering Pillars
-
-| 🌐 Architecture & State | 🗄️ Data Engineering | 🚀 Performance & UX |
-| :--- | :--- | :--- |
-| • Component Lifecycle Optimization<br>• Scalable State Management<br>• Asynchronous Monolithic/Microservices<br>• RESTful API Design | • Relational Schema Normalization<br>• Query Optimization & Indexing<br>• Transaction Integrity & Constraints<br>• Efficient CRUD Lifecycles | • Micro-interactions & Asset Loading<br>• Glassmorphism & Modern Layouts<br>• Strict Technical Visibility / Dark Themes<br>• Clean, Scannable Document Object Model |
-
----
-
-### 🛠️ Production-Ready Technical Arsenal
-
-```text
-🟢 Frontend  │ React.js (Hooks, Context), JavaScript (ES6+), HTML5, CSS3, Bootstrap, Glassmorphism UI
-🔵 Backend   │ Node.js, Express, PHP (Object-Oriented)
-🟡 Databases │ SQL, Relational Database Management Systems (RDBMS), Schema Optimization
-⚫ Tooling   │ Git, GitHub version control, Linux environments, Audio Engineering (Audacity/BPM Sync)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
