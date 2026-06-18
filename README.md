@@ -1,34 +1,21 @@
-## 🚀 About Me
+# 💻 Full-Stack & Systems Engineer
 
-A structured developer focused on building high-performance full-stack web applications, optimizing database layers, and engineering clean user experiences. Backed by a strong technical foundation in software engineering and hands-on experience delivering production-ready web solutions.
-
----
-
-### 🛠️ Technical Focus & Status
-
-* **🔭 I’m currently working on** | Building scalable full-stack web systems, refining custom CRM applications, and optimizing relational database schemas.
-* **👯 I’m looking to collaborate on** | Open-source full-stack web applications, performance-driven React components, or modern architecture designs.
-* **🤝 I’m looking for help with** | Advanced backend system design patterns and cloud deployment workflows.
-* **🌱 I’m currently learning** | Next.js, advanced state management architectures, and modern UI/UX design frameworks.
-* **💬 Ask me about** | JavaScript, React.js, Node.js, native Android application development (Java), or database management using SQL and PHP.
-* **⚡ Fun fact** | When I'm offline, I build audio mixes using precise BPM and EQ adjustments, and compete in inter-collegiate formal dance formats.
+A performance-driven developer specializing in building scalable web architectures, optimizing data persistence layers, and engineering fluid user interfaces. Focused on writing deterministic, highly maintainable code and eliminating architectural bottlenecks.
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🏛️ Core Engineering Pillars
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React.js, JavaScript, HTML5, CSS3, Bootstrap |
-| **Backend & DB** | Node.js, Express, PHP, SQL, Relational Databases |
-| **Languages & Mobile**| Java (Native Android Dev), Python |
-| **Tools & Version Control** | Git, GitHub, Audacity |
+| 🌐 Architecture & State | 🗄️ Data Engineering | 🚀 Performance & UX |
+| :--- | :--- | :--- |
+| • Component Lifecycle Optimization<br>• Scalable State Management<br>• Asynchronous Monolithic/Microservices<br>• RESTful API Design | • Relational Schema Normalization<br>• Query Optimization & Indexing<br>• Transaction Integrity & Constraints<br>• Efficient CRUD Lifecycles | • Micro-interactions & Asset Loading<br>• Glassmorphism & Modern Layouts<br>• Strict Technical Visibility / Dark Themes<br>• Clean, Scannable Document Object Model |
 
 ---
 
-### 📈 Metrics & Activity
+### 🛠️ Production-Ready Technical Arsenal
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+```text
+🟢 Frontend  │ React.js (Hooks, Context), JavaScript (ES6+), HTML5, CSS3, Bootstrap, Glassmorphism UI
+🔵 Backend   │ Node.js, Express, PHP (Object-Oriented)
+🟡 Databases │ SQL, Relational Database Management Systems (RDBMS), Schema Optimization
+⚫ Tooling   │ Git, GitHub version control, Linux environments, Audio Engineering (Audacity/BPM Sync)
