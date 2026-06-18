@@ -1,18 +1,29 @@
-# 💻 Full-Stack & Systems Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=220&section=header&text=Rutuja%20Wadgaonkar&subtitle=Full-Stack%20%26%20Systems%20Engineer&fontSize=38&subFontSize=19&fontColor=ffffff" width="100%" alt="Rutuja Wadgaonkar" />
+</p>
 
-A performance-driven developer specializing in building scalable web architectures, optimizing data persistence layers, and engineering fluid user experiences. Focused on writing structured, highly maintainable code and eliminating architectural bottlenecks.
+<p align="center">
+  <strong>React.js • Node.js • SQL • Java • Android Dev • UI/UX Architecture</strong>
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/rutuja-wadgaonkar-718448322" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:wadgaonkarrutuja43@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://mastodon.social/@Rutuja Wadgaonkar" target="_blank">
-    <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
-  </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wadgaonkarrutuja43-bot&icon=0&color=8511FA&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+### 🙋‍♂️ About Me
+
+A performance-driven developer specializing in building scalable web architectures, optimizing data persistence layers, and engineering fluid user experiences. Focused on writing structured, highly maintainable code and eliminating architectural bottlenecks.
 
 ---
 
@@ -78,8 +89,3 @@ A performance-driven developer specializing in building scalable web architectur
 
 * **Audio Engineering:** Apply signal-processing tools (Audacity) to build seamless acoustic transitions via precise BPM matching and intentional EQ attenuation loops.
 * **Kinesthetic Dynamics:** Competitive inter-collegiate formal dancer; translate multi-layered rhythmic configurations into structured choreography under strict, high-pressure competitive metrics.
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wadgaonkarrutuja43-bot&icon=0&color=0077B5" alt="Profile Views" />
-</p>
